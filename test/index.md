@@ -80,12 +80,12 @@
 |三七文学网|http://www.3qxs.com|未知|
 |山海八荒录|https://www.dizhu.org|未知|
 |闪闪小说书网|https://www.33shu.net|未知|
-|神笔屋|https://www.shenbiwu.com|未知|
+|神笔屋|https://www.shenbiwu.com|201907120620|
 |书客吧|https://shukeba.com|未知|
 |唐三中文网|http://m.tangsanshu.com|未知|
 |天涯书库|https://www.tianyabooks.com|未知|
 |完本神站|https://www.wanbentxt.com|未知|
-|我的小书屋|https://book.sanyuedev.top|未知|
+|我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907120634|
 |舞若小说网|https://m.wuruo.com|未知|
 |小书包网|https://m.xshubao.org|未知|
 |小说宝库|https://www.govtz.com|未知|
