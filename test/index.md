@@ -4,7 +4,7 @@
 
 #### 强烈建议使用电脑浏览此页面！！
 
-已包含网站：  
+已包含网站：
 
 |名称|网址|最后更新|
 |:-|:-|:-|
@@ -32,13 +32,13 @@
 |笔趣阁-biquge.cc|https://m.biquge.cc|未知|
 |笔趣阁-xbiquge.cc|https://www.xbiquge.cc|未知|
 |笔趣楼|https://m.biqulou.net|未知|
-|笔趣轩|https://www.biquxuan.com|未知|
+|笔趣轩-biquxuan.com|https://www.biquxuan.com|201907121724|
 |笔仙阁|https://www.bixiange.org|未知|
 |冰雷中文|https://www.bookbl.com|未知|
 |博听网|http://www.boting.co|未知|
 |欻书网|http://m.chuashu.com|201907100600|
 |词笔阁|https://www.cibige.com|未知|
-|刺猬猫|https://www.ciweimao.com|未知|
+|刺猬猫|https://www.ciweimao.com|201907141426|
 |帝书阁|http://m.dishuge.com|未知|
 |顶点中文|http://wap.dingdianzw.com|未知|
 |读全本|https://www.duquanben.com|未知|
@@ -106,8 +106,8 @@
 |元尊小说网-yuanzun888.com|http://m.yuanzun888.com|未知|
 |遮天小说网|https://www.zhetian.org|未知|
 |逐浪网|https://m.zhulang.com|未知|
-|作品集|http://zuopinj.com|未知|  
+|作品集|http://zuopinj.com|未知|
 
-其他：  
+其他：
 
 [56书库(http://www.56shuku.org)](https://github.com/adhu2018/001/raw/master/www_56shuku_org.txt)(可直接复制链接导入)
