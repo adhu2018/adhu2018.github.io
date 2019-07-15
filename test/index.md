@@ -48,7 +48,7 @@
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |幻月书院|http://m.huanyue123.com|未知|
-|晋江文学城|http://www.jjwxc.net|未知|
+|晋江文学城|http://www.jjwxc.net|201907100800|
 |九桃小说网|https://www.9txs.com|未知|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
@@ -84,7 +84,7 @@
 |书客吧|https://shukeba.com|未知|
 |唐三中文网|http://m.tangsanshu.com|未知|
 |天涯书库|https://www.tianyabooks.com|未知|
-|完本神站|https://www.wanbentxt.com|未知|
+|完本神站|https://www.wanbentxt.com|201907142122|
 |我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907120634|
 |舞若小说网|https://m.wuruo.com|未知|
 |小书包网|https://m.xshubao.org|未知|
@@ -101,7 +101,7 @@
 |言情小说|http://m.yqxs.net|未知|
 |衍墨轩|https://www.yanmoxuan.org|201907112116|
 |一千零一页|http://www.1001p.com|未知|
-|优书网|http://img.yousuu.com|201909120000|
+|优书网|http://img.yousuu.com|201907151229|
 |元尊小说网-19909.cc|http://19909.cc|未知|
 |元尊小说网-yuanzun888.com|http://m.yuanzun888.com|未知|
 |遮天小说网|https://www.zhetian.org|未知|
