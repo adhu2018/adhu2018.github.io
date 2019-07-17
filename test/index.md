@@ -26,7 +26,7 @@
 |爱看书吧|http://m.aikanshu8.com|未知|
 |爱灵异|https://www.ailingyi.com|未知|
 |八零电子书|https://m.80txt.com|未知|
-|百度百科|https://baike.baidu.com|未知|
+|百度百科|https://baike.baidu.com|201907180732|
 |北斗星小说|http://m.beidouxin.com|未知|
 |笔趣阁-bijuge.com|http://www.bijuge.com|未知|
 |笔趣阁-biquge.cc|https://m.biquge.cc|未知|
