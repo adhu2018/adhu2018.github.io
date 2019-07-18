@@ -52,7 +52,7 @@
 |九桃小说网|https://www.9txs.com|未知|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
-|看书君|https://www.kanshujun.com|未知|
+|看书君|https://www.kanshujun.com|201907182240|
 |看书网|https://www.kanshu.com|未知|
 |看小说|https://m.read52.com|未知|
 |啃文书库|https://www.kenwen.com|未知|
@@ -85,10 +85,10 @@
 |唐三中文网|http://m.tangsanshu.com|未知|
 |天涯书库|https://www.tianyabooks.com|未知|
 |完本神站|https://www.wanbentxt.com|201907142122|
-|我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907120634|
+|我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907182158|
 |舞若小说网|https://m.wuruo.com|未知|
 |小书包网|https://m.xshubao.org|未知|
-|小说宝库|https://www.govtz.com|未知|
+|小说宝库|https://www.govtz.com|201907182159|
 |小说柜|https://xiaoshuogui.com|未知|
 |小说楼|https://www.xs6.cn|未知|
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
