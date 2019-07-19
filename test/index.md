@@ -44,7 +44,7 @@
 |读全本|https://www.duquanben.com|未知|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
-|瓜子小说网|https://m.gzbpi.com|未知|
+|瓜子小说网|https://m.gzbpi.com|201907192236|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |幻月书院|http://m.huanyue123.com|未知|
@@ -73,7 +73,7 @@
 |棋子小说|http://www.qizi.la|未知|
 |千千小说|https://m.qqxs.la|未知|
 |千千小说网-77xs.co|https://www.77xs.co|201907100600|
-|千千小说网-77xsw.la|https://www.77xsw.la|未知|
+|千千小说网-77xsw.la|https://www.77xsw.la|201907192031|
 |轻小说|https://www.qinxiaoshuo.com|未知|
 |全本小说网|https://www.iquanben.com|未知|
 |日照小说网|https://www.rzlib.net|未知|
@@ -94,7 +94,7 @@
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
 |邂逅小说网|http://m.xhxswz.com|未知|
 |新笔趣阁-x23su.com|http://www.x23su.com|未知|
-|新龙腾小说网|https://www.xltxs.net|未知|
+|新龙腾小说网|https://www.xltxs.net|201907192212|
 |新书包网|https://k.xinshubao.net|未知|
 |新御书屋|http://www.xinyushuwu.com|未知|
 |寻书网|https://m.677a.cn|未知|
