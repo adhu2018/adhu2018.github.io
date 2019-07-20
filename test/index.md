@@ -9,10 +9,10 @@
 |名称|网址|最后更新|
 |:-|:-|:-|
 |100本网|https://www.100ben.net|201907112000|
-|123言情|http://www.123yqw.com|未知|
+|123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
 |31小说网|http://m.xx31xs.org|未知|
-|33小说网|https://www.33xs.com|未知|
+|33小说网|https://www.33xs.com|201907200720|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|未知|
 |58小说网|http://m.5858xs.com|未知|
