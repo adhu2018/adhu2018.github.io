@@ -11,7 +11,7 @@
 |100本网|https://www.100ben.net|201907112000|
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
-|31小说网|http://m.xx31xs.org|未知|
+|31小说网|http://m.xx31xs.org|201907210654|
 |33小说网|https://www.33xs.com|201907200720|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|未知|
@@ -52,7 +52,7 @@
 |九桃小说网|https://www.9txs.com|未知|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
-|看书君|https://www.kanshujun.com|201907182240|
+|看书君|https://www.kanshujun.com|201907222053|
 |看书网|https://www.kanshu.com|未知|
 |看小说|https://m.read52.com|未知|
 |啃文书库|https://www.kenwen.com|未知|
