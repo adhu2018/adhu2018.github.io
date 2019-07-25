@@ -14,7 +14,7 @@
 |31小说网|http://m.xx31xs.org|201907210654|
 |33小说网|https://www.33xs.com|201907200720|
 |44文学网|http://www.44wxw.com|未知|
-|56听书网|http://m.ting56.com|未知|
+|56听书网|http://m.ting56.com|201907251709|
 |58小说网|http://m.5858xs.com|未知|
 |5G小说网|https://m.5gxs.com|未知|
 |67书吧|https://www.67shu.com|未知|
@@ -67,7 +67,6 @@
 |你我看书网|https://m.25ksw.com|未知|
 |爬书网手机版|http://www.pashuw.com|未知|
 |品书网|https://www.vodtw.com|未知|
-|泊星石书院|https://m.mkxs8.com|未知|
 |齐努力小说网|https://www.qinuli.com|未知|
 |奇书网|https://www.qisuu.la|未知|
 |棋子小说|http://www.qizi.la|未知|
@@ -108,6 +107,9 @@
 |逐浪网|https://m.zhulang.com|未知|
 |作品集|http://zuopinj.com|未知|
 
-其他：
 
-[56书库(http://www.56shuku.org)](https://github.com/adhu2018/001/raw/master/www_56shuku_org.txt)(可直接复制链接导入)
+劣质书源，移出列表，不再更新：  
+泊星石书院(https://m.mkxs8.com)  
+
+404分组：  
+56书库(http://www.56shuku.org)
