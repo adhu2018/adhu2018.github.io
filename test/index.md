@@ -11,7 +11,7 @@
 |100本网|https://www.100ben.net|201907112000|
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
-|31小说网|http://m.xx31xs.org|201907210654|
+|31小说网|http://m.xx31xs.org|201907260634|
 |33小说网|https://www.33xs.com|201907200720|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|201907251709|
@@ -44,7 +44,7 @@
 |读全本|https://www.duquanben.com|未知|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
-|瓜子小说网|https://m.gzbpi.com|201907192236|
+|瓜子小说网|https://m.gzbpi.com|201907260721|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |幻月书院|http://m.huanyue123.com|未知|
