@@ -11,7 +11,7 @@
 |100本网|https://www.100ben.net|201907112000|
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
-|31小说网|http://m.xx31xs.org|201907260634|
+|31小说网|http://m.xx31xs.org|201907261600|
 |33小说网|https://www.33xs.com|201907200720|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|201907251709|
@@ -41,13 +41,13 @@
 |刺猬猫|https://www.ciweimao.com|201907141426|
 |帝书阁|http://m.dishuge.com|未知|
 |顶点中文|http://wap.dingdianzw.com|未知|
-|读全本|https://www.duquanben.com|未知|
+|读全本|https://www.duquanben.com|201907261620|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
 |瓜子小说网|https://m.gzbpi.com|201907260721|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
-|幻月书院|http://m.huanyue123.com|未知|
+|幻月书院|http://m.huanyue123.com|201907261656|
 |晋江文学城|http://www.jjwxc.net|201907100800|
 |九桃小说网|https://www.9txs.com|未知|
 |看看书|http://m.kankanshu.cc|未知|
