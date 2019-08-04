@@ -12,7 +12,7 @@
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
 |31小说网|http://m.xx31xs.org|201907261600|
-|33小说网|https://www.33xs.com|201907200720|
+|33小说网|https://www.33xs.com|201908041405|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|201907251709|
 |58小说网|http://m.5858xs.com|未知|
@@ -92,7 +92,7 @@
 |小说楼|https://www.xs6.cn|未知|
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
 |邂逅小说网|http://m.xhxswz.com|未知|
-|新笔趣阁-x23su.com|http://www.x23su.com|未知|
+|新笔趣阁-x23su.com|http://www.x23su.com|201908041328|
 |新龙腾小说网|https://www.xltxs.net|201907192212|
 |新书包网|https://k.xinshubao.net|未知|
 |新御书屋|http://www.xinyushuwu.com|未知|
