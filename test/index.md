@@ -98,7 +98,8 @@
 |新御书屋|http://www.xinyushuwu.com|未知|
 |寻书网|https://m.677a.cn|未知|
 |言情小说|http://m.yqxs.net|未知|
-|衍墨轩|https://www.yanmoxuan.org|已删除|
+|衍墨轩-ymoxuan.com|https://www.ymoxuan.com|201908091713|
+|衍墨轩-yanmoxuan.org|https://www.yanmoxuan.org|已删除|
 |一千零一页|http://www.1001p.com|未知|
 |优书网|http://img.yousuu.com|201908021713|
 |元尊小说网-19909.cc|http://19909.cc|未知|
