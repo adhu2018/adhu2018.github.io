@@ -72,7 +72,7 @@
 |棋子小说|http://www.qizi.la|未知|
 |千千小说|https://m.qqxs.la|未知|
 |千千小说网-77xs.co|https://www.77xs.co|201907100600|
-|千千小说网-77xsw.la|https://www.77xsw.la|201907192031|
+|千千小说网-77xsw.la|https://www.77xsw.la|201908060903|
 |轻小说|https://www.qinxiaoshuo.com|未知|
 |全本小说网|https://www.iquanben.com|未知|
 |日照小说网|https://www.rzlib.net|未知|
@@ -93,7 +93,7 @@
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
 |邂逅小说网|http://m.xhxswz.com|未知|
 |新笔趣阁-x23su.com|http://www.x23su.com|201908041328|
-|新龙腾小说网|https://www.xltxs.net|201907192212|
+|新龙腾小说网|https://www.xltxs.net|201908091333|
 |新书包网|https://k.xinshubao.net|未知|
 |新御书屋|http://www.xinyushuwu.com|未知|
 |寻书网|https://m.677a.cn|未知|
