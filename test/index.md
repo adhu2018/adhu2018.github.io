@@ -8,11 +8,11 @@
 
 |名称|网址|最后更新|
 |:-|:-|:-|
-|100本网|https://www.100ben.net|201907112000|
+|100本网|https://www.100ben.net|201908171025|
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
 |31小说网|http://m.xx31xs.org|201907261600|
-|33小说网|https://www.33xs.com|201908041405|
+|33小说网|https://www.33xs.com|201908170755|
 |44文学网|http://www.44wxw.com|未知|
 |56听书网|http://m.ting56.com|201907251709|
 |58小说网|http://m.5858xs.com|未知|
@@ -38,18 +38,18 @@
 |博听网|http://www.boting.co|未知|
 |欻书网|http://m.chuashu.com|201907100600|
 |词笔阁|https://www.cibige.com|未知|
-|刺猬猫|https://www.ciweimao.com|201907141426|
+|刺猬猫|https://www.ciweimao.com|201908121244|
 |帝书阁|http://m.dishuge.com|未知|
 |顶点中文|http://wap.dingdianzw.com|未知|
 |读全本|https://www.duquanben.com|201907261620|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
-|瓜子小说网|https://m.gzbpi.com|201907260721|
+|瓜子小说网|https://m.gzbpi.com|201908171026|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |幻月书院|http://m.huanyue123.com|201907261656|
 |晋江文学城|http://www.jjwxc.net|201907100800|
-|九桃小说网|https://www.9txs.com|未知|
+|九桃小说网|https://www.9txs.com|201908162130|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
 |看书君|https://www.kanshujun.com|201907222053|
@@ -87,7 +87,7 @@
 |我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907182158|
 |舞若小说网|https://m.wuruo.com|未知|
 |小书包网|https://m.xshubao.org|未知|
-|小说宝库|https://www.govtz.com|201907182159|
+|小说宝库|https://www.govtz.com|已删除|
 |小说柜|https://xiaoshuogui.com|未知|
 |小说楼|https://www.xs6.cn|未知|
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
