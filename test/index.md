@@ -1,8 +1,21 @@
 ## adhu
 
-[qa455355](https://raw.githubusercontent.com/adhu2018/001/master/qa455355.txt)(可直接复制链接导入)
+如果你发现我的书源有问题，在反馈前请先检查 兰奏云/Github  上是否有相应书源的更新！
 
-#### 强烈建议使用电脑浏览此页面！！
+- [兰奏云](https://www.lanzous.com/b802936)
+- [网络导入](https://github.com/adhu2018/001/raw/master/qa455355.txt)
+- [GitHub仓库](https://github.com/adhu2018/001)
+- 如果没有更新，请及时反馈！
+- 如果有更新，请先下载更新查看问题是否解决，没有解决的请及时反馈！
+
+反馈途径：可以通过以下方式向我反馈！！
+
+- GitHub
+- QQ2441323081
+- 酷安@qa455355(私聊、评论区直接艾特都可以，建议私聊)
+
+
+#### 建议使用电脑浏览此页面！！
 
 已包含网站：
 
@@ -12,8 +25,8 @@
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
 |31小说网|http://m.xx31xs.org|201907261600|
-|33小说网|https://www.33xs.com|201908170755|
-|44文学网|http://www.44wxw.com|未知|
+|33小说网|https://www.33xs.com|201908182029|
+|44文学网|http://www.44wxw.com|已删除|
 |56听书网|http://m.ting56.com|201907251709|
 |58小说网|http://m.5858xs.com|未知|
 |5G小说网|https://m.5gxs.com|未知|
@@ -44,12 +57,12 @@
 |读全本|https://www.duquanben.com|201907261620|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
-|瓜子小说网|https://m.gzbpi.com|201908171026|
+|瓜子小说网|https://m.gzbpi.com|201908192230|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |幻月书院|http://m.huanyue123.com|201907261656|
 |晋江文学城|http://www.jjwxc.net|201907100800|
-|九桃小说网|https://www.9txs.com|201908162130|
+|九桃小说网|https://www.9txs.com|201908180816|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
 |看书君|https://www.kanshujun.com|201907222053|
