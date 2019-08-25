@@ -35,12 +35,12 @@
 |88读书网|https://m.88dush.com|未知|
 |My176|https://api.zhuishushenqi.com|未知|
 |NBA小说网|http://www.nbaxiaoshuo.com|未知|
-|SF轻小说|http://m.sfacg.com|未知|
+|SF轻小说|http://m.sfacg.com|201908232148|
 |爱看书吧|http://m.aikanshu8.com|未知|
 |爱灵异|https://www.ailingyi.com|未知|
 |八零电子书|https://m.80txt.com|未知|
 |百度百科|https://baike.baidu.com|201907180732|
-|北斗星小说|http://m.beidouxin.com|未知|
+|北斗星小说|http://m.beidouxin.com|201908201951|
 |笔趣阁-bijuge.com|http://www.bijuge.com|未知|
 |笔趣阁-biquge.cc|https://m.biquge.cc|未知|
 |笔趣阁-xbiquge.cc|https://www.xbiquge.cc|未知|
@@ -93,6 +93,7 @@
 |山海八荒录|https://www.dizhu.org|未知|
 |闪闪小说书网|https://www.33shu.net|未知|
 |神笔屋|https://www.shenbiwu.com|201907120620|
+|书城|https://bookshelf.html5.qq.com|201908241359|
 |书客吧|https://shukeba.com|未知|
 |唐三中文网|http://m.tangsanshu.com|未知|
 |天涯书库|https://www.tianyabooks.com|未知|
