@@ -1,18 +1,7 @@
 ## adhu
 
-如果你发现我的书源有问题，在反馈前请先检查 兰奏云/Github  上是否有相应书源的更新！
+如果你发现我的书源有问题，请先检查是否有相应书源的更新！
 
-- [兰奏云](https://www.lanzous.com/b802936)
-- [网络导入](https://github.com/adhu2018/001/raw/master/qa455355.txt)
-- [GitHub仓库](https://github.com/adhu2018/001)
-- 如果没有更新，请及时反馈！
-- 如果有更新，请先下载更新查看问题是否解决，没有解决的请及时反馈！
-
-反馈途径：可以通过以下方式向我反馈！！
-
-- GitHub
-- QQ2441323081
-- 酷安@qa455355(私聊、评论区直接艾特都可以，建议私聊)
 
 
 #### 建议使用电脑浏览此页面！！
@@ -76,7 +65,8 @@
 |良久小说下载网|https://m.txt909.com|未知|
 |龙腾小说网|https://wap.wanrenxs.org|未知|
 |梅语|https://www.meiyuxs.com|未知|
-|明月中文|http://m.cyuedu.com|未知|
+|明月中文|http://m.cyuedu.com|已删除|
+|明月中文|http://www.cyuedu.com|201908261201|
 |你我看书网|https://m.25ksw.com|未知|
 |爬书网手机版|http://www.pashuw.com|未知|
 |品书网|https://www.vodtw.com|未知|
@@ -118,6 +108,7 @@
 |优书网|http://img.yousuu.com|201908021713|
 |元尊小说网-19909.cc|http://19909.cc|未知|
 |元尊小说网-yuanzun888.com|http://m.yuanzun888.com|未知|
+|掌阅书城|http://www.ireader.com|201908261019|
 |遮天小说网|https://www.zhetian.org|未知|
 |逐浪网|https://m.zhulang.com|未知|
 |作品集|http://zuopinj.com|未知|
