@@ -37,7 +37,7 @@
 |笔趣轩-biquxuan.com|https://www.biquxuan.com|201907121724|
 |笔仙阁|https://www.bixiange.org|未知|
 |冰雷中文|https://www.bookbl.com|未知|
-|博听网|http://www.boting.co|未知|
+|博听网|http://www.boting.co|已删除|
 |欻书网|http://m.chuashu.com|201907100600|
 |词笔阁|https://www.cibige.com|未知|
 |刺猬猫|https://www.ciweimao.com|201908121244|
