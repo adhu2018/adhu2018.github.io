@@ -13,7 +13,7 @@
 |100本网|https://www.100ben.net|201908171025|
 |123言情|http://www.123yqw.com|201907200651|
 |15小说网|http://www.15xsw.net|未知|
-|31小说网|http://www.31xsxs.com|已删除|
+|31小说网|http://www.31xsxs.com|201909061836|
 |33小说网|https://www.33xs.com|201908182029|
 |44文学网|http://www.44wxw.com|已删除|
 |56听书网|http://m.ting56.com|201907251709|
@@ -112,7 +112,7 @@
 |元尊小说网-19909.cc|http://19909.cc|未知|
 |元尊小说网-yuanzun888.com|http://m.yuanzun888.com|未知|
 |早安电子书|http://m.zadzs.com|201908301826
-|掌阅书城|http://www.ireader.com|201909041916|
+|掌阅书城|http://www.ireader.com|201909071808|
 |遮天小说网|https://www.zhetian.org|未知|
 |逐浪网|https://m.zhulang.com|未知|
 |作品集|http://zuopinj.com|未知|
