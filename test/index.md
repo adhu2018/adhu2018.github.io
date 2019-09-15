@@ -11,7 +11,7 @@
 |名称|网址|最后更新|
 |:-|:-|:-|
 |100本网|https://www.100ben.net|201908171025|
-|123言情|http://www.123yqw.com|201907200651|
+|123言情|http://www.123yqw.com|201909111411|
 |15小说网|http://www.15xsw.net|未知|
 |31小说网|http://www.31xsxs.com|201909061836|
 |33小说网|https://www.33xs.com|201908182029|
@@ -49,6 +49,7 @@
 |瓜子小说网|https://m.gzbpi.com|201908192230|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
+|话本小说|https://www.ihuaben.com|201909092156|
 |幻月书院|http://m.huanyue123.com|201907261656|
 |晋江文学城|http://www.jjwxc.net|201907100800|
 |九桃小说网|https://www.9txs.com|201908180816|
@@ -89,7 +90,7 @@
 |书客吧|https://shukeba.com|未知|
 |唐三中文网|http://m.tangsanshu.com|未知|
 |天涯书库|https://www.tianyabooks.com|未知|
-|完本神站|https://www.wanbentxt.com|201907142122|
+|完本神站|https://www.wanbentxt.com|201909072218|
 |我的小书屋-book.sanyuedev.top|https://book.sanyuedev.top|201907182158|
 |舞若小说网|https://m.wuruo.com|未知|
 |小笔趣阁|https://www.xiaobiquge.com|201908310738|
@@ -103,7 +104,7 @@
 |新龙腾小说网|https://www.xltxs.net|201908091333|
 |新书包网|https://k.xinshubao.net|未知|
 |新御书屋|http://www.xinyushuwu.com|未知|
-|寻书网|https://m.677a.cn|201909051115|
+|寻书网|https://m.677a.cn|201909150702|
 |言情小说|http://m.yqxs.net|未知|
 |衍墨轩-ymoxuan.com|https://www.ymoxuan.com|201908091713|
 |衍墨轩-yanmoxuan.org|https://www.yanmoxuan.org|已删除|
