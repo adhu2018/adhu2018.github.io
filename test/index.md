@@ -11,15 +11,15 @@
 |名称|网址|最后更新|
 |:-|:-|:-|
 |100本网|https://www.100ben.net|201908171025|
-|123言情|http://www.123yqw.com|201909111411|
-|15小说网|http://www.15xsw.net|未知|
-|31小说网|http://www.31xsxs.com|201909061836|
+|123言情|http://www.123xyq.com|移除|
+|15小说网|http://www.15xsw.net|201909231439|
+|31小说网|http://www.31xs.net|移除|
 |33小说网|https://www.33xs.com|201908182029|
-|44文学网|http://www.44wxw.com|已删除|
+|44文学网|http://www.44wxw.com|移除|
 |56听书网|http://m.ting56.com|201907251709|
 |58小说网|http://m.5858xs.com|未知|
 |5G小说网|https://m.5gxs.com|未知|
-|67书吧|https://www.67shu.com|201909022241|
+|67书吧|https://www.67shu.com|201909231856|
 |69书吧|https://www.69shuba.cc|未知|
 |88读书网|https://m.88dush.com|未知|
 |My176|https://api.zhuishushenqi.com|未知|
@@ -37,7 +37,7 @@
 |笔趣轩-biquxuan.com|https://www.biquxuan.com|201907121724|
 |笔仙阁|https://www.bixiange.org|未知|
 |冰雷中文|https://www.bookbl.com|未知|
-|博听网|http://www.boting.co|已删除|
+|博听网|http://www.boting.co|移除|
 |欻书网|http://m.chuashu.com|201907100600|
 |词笔阁|https://www.cibige.com|未知|
 |刺猬猫|https://www.ciweimao.com|201908121244|
@@ -46,7 +46,7 @@
 |读全本|https://www.duquanben.com|201907261620|
 |读一读|http://du1du.org|未知|
 |凡人小说网|https://wap.44wa.com|未知|
-|瓜子小说网|https://m.gzbpi.com|201908192230|
+|瓜子小说网|https://m.gzbpi.com|移除|
 |黑岩小说|https://www.heiyan.com|未知|
 |红叶书斋|https://m.hongyeshuzhai.com|未知|
 |话本小说|https://www.ihuaben.com|201909092156|
@@ -55,7 +55,7 @@
 |九桃小说网|https://www.9txs.com|201908180816|
 |看看书|http://m.kankanshu.cc|未知|
 |看书海小说|https://www.kanshuhai.com|未知|
-|看书君|https://www.kanshujun.com|201907222053|
+|看书君|https://www.kanshujun.com|移除|
 |看书网|https://www.kanshu.com|未知|
 |看小说|https://m.read52.com|未知|
 |啃文书库|https://www.kenwen.com|未知|
@@ -67,8 +67,8 @@
 |良久小说下载网|https://m.txt909.com|未知|
 |零零看书|http://www.00kxs.com|201908301829|
 |龙腾小说网|https://wap.wanrenxs.org|未知|
-|梅语|https://www.meiyuxs.com|未知|
-|明月中文|http://m.cyuedu.com|已删除|
+|梅语|https://www.meiyuxs.com|201909230000|
+|明月中文|http://m.cyuedu.com|移除|
 |明月中文|http://www.cyuedu.com|201908261201|
 |你我看书网|https://m.25ksw.com|未知|
 |爬书网手机版|http://www.pashuw.com|未知|
@@ -95,7 +95,7 @@
 |舞若小说网|https://m.wuruo.com|未知|
 |小笔趣阁|https://www.xiaobiquge.com|201908310738|
 |小书包网|https://m.xshubao.org|未知|
-|小说宝库|https://www.govtz.com|已删除|
+|小说宝库|https://www.govtz.com|移除|
 |小说柜|https://xiaoshuogui.com|未知|
 |小说楼|https://www.xs6.cn|未知|
 |小鑫免费小说|http://zzz.wuxu.vip|未知|
@@ -107,7 +107,7 @@
 |寻书网|https://m.677a.cn|201909150702|
 |言情小说|http://m.yqxs.net|未知|
 |衍墨轩-ymoxuan.com|https://www.ymoxuan.com|201908091713|
-|衍墨轩-yanmoxuan.org|https://www.yanmoxuan.org|已删除|
+|衍墨轩-yanmoxuan.org|https://www.yanmoxuan.org|移除|
 |一千零一页|http://www.1001p.com|未知|
 |优书网|http://img.yousuu.com|201908311057|
 |元尊小说网-19909.cc|http://19909.cc|未知|
