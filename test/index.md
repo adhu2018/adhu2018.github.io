@@ -11,8 +11,9 @@
 |:-|:-|:-|
 |九桃小说网|https://www.9txs.com|202002141140|
 |若晨文学|https://www.ffbook.cc|202002052300|
-|万界小说网|https://www.wanjiexianwang.com|202001151130|
-|新笔趣阁|https://www.2bqg.com|排查后已删除|
+|万界小说网|https://www.wanjiexianwang.com|已删除-访问慢|
+|新笔趣阁|https://www.2bqg.com|已删除-其他|
+|笔趣阁-xbiquge.cc|https://www.xbiquge.cc|202003221025|
 
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
