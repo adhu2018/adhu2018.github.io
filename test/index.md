@@ -1,5 +1,6 @@
 ## adhu
 
+[快捷导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/adhu2018/001/master/qa455355for3.txt)
 如果你发现我的书源有问题，请先检查是否有相应书源的更新！
 
 #### 建议使用电脑浏览此页面。  
