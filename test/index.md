@@ -1,6 +1,6 @@
 ## adhu
 
-##### 建议使用手机浏览此页面，推荐使用"[快捷导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/adhu2018/001/master/qa455355for3.txt)"。  
+##### 建议使用手机浏览此页面，推荐使用[快捷导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/adhu2018/001/master/qa455355for3.txt)。  
   
 如果你发现我的书源有问题，请先检查是否有相应书源的更新！
 
