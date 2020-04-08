@@ -42,7 +42,7 @@ def chapterNum(aForHtml):
                         num += 10
                 elif re.search(r"^\d$", i):
                     if re.search(r"0", tempNum):
-                        num += int(re.search(r"\d", i)[0]) * 1
+                        num += int(re.search(r"\d", i)[0])
                     else:
                         temp = len(str(re.sub(r"[\s\S]*?(0+$)", r"\1", str(num)))) - 1
                         num += int(re.search(r"\d", i)[0]) * (10**temp)
