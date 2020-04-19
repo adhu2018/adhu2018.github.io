@@ -1,6 +1,8 @@
 [目录](./) 
 
 ```python
+import re
+
 def chapterNum(aForHtml):
     num = 0
     temp = str(aForHtml)
