@@ -5,4 +5,5 @@
 - [chapterNum.md](./chapterNum) 章节名称中的汉字数字转换成阿拉伯数字
 - [gdb.md](./gdb) gdb的简单使用
 - [robots.md](./robots) 判断url是否可以爬取
+- [20200419.md](./20200419) re.escape()：对字符串中所有**可能被解释为正则运算符的字符**进行转义
 
