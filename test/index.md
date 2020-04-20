@@ -17,6 +17,7 @@
 |笔趣阁-com.cn<br/>202003261830|https://www.biquge.com.cn|
 |100本<br/>202003271800|https://www.100ben.net|
 |黑岩<br/>202003291720|https://www.heiyan.com|
+|斋书苑<br/>202004201000|https://www.zhaishuyuan.com|
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
 
