@@ -9,15 +9,15 @@
 
 |名称|网址|
 |:-|:-|
-|九桃小说网<br/>202002141140|https://www.9txs.com|
-|若晨文学<br/>202003221025|https://www.ffbook.cc|
+|九桃小说网<br/>202004252252|https://www.9txs.com|
+|若晨文学<br/>202004252252|https://www.ffbook.cc|
 |~~万界小说网~~<br/>已删除-访问慢|~~https://www.wanjiexianwang.com~~|
 |~~新笔趣阁~~<br/>已删除-其他|~~https://www.2bqg.com~~|
-|笔趣阁-xbiquge.cc<br/>202003221025|https://www.xbiquge.cc|
-|笔趣阁-com.cn<br/>202003261830|https://www.biquge.com.cn|
-|100本<br/>202003271800|https://www.100ben.net|
-|黑岩<br/>202003291720|https://www.heiyan.com|
-|斋书苑<br/>202004220810|https://www.zhaishuyuan.com|
+|笔趣阁-xbiquge.cc<br/>202004252252|https://www.xbiquge.cc|
+|笔趣阁-com.cn<br/>202004252252|https://www.biquge.com.cn|
+|100本<br/>202004252252|https://www.100ben.net|
+|黑岩<br/>202004252252|https://www.heiyan.com|
+|斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
 
