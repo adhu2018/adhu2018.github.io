@@ -5,6 +5,7 @@
 import re
 from requests_html import HTMLSession
 
+
 def _robots(r):
     """
     任何一条Disallow记录为空，说明该网站的所有部分都允许被访问，在"/robots.txt"文件中，至少要有一条Disallow记录。
@@ -51,12 +52,18 @@ def robots_(_url):
     url_com = re.search(r"https?(://[^/]*)", _url)[1]
     url1 = "http%s/robots.txt" % str(url_com)
     url2 = "https%s/robots.txt" % str(url_com)
-    r1 = session.get(url1)
+    try:
+        r1 = session.get(url1)
+    except:  # 尽量验证签名，（使用fiddler等）证书验证有问题时不验证签名。会有一个Warning，这样你就知道当前是没有验证签名的。也可以直接不验证签名，然后把Warning去掉，但不推荐。
+        r1 = session.get(url1, verify=False)
     list1 = _robots(r1)
     if list1:
         return list1
     else:
-        r2 = session.get(url2)
+        try:
+            r2 = session.get(url2)
+        except:
+            r2 = session.get(url2, verify=False)
         list2 = _robots(r2)
         if list2:
             return list2
