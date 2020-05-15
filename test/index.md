@@ -20,6 +20,7 @@
 |100本<br/>202004252252|https://www.100ben.net|
 |黑岩<br/>202004252252|https://www.heiyan.com|
 |斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
+|中文书城<br/>202005151640|http://shenma.cread.com|
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
 
