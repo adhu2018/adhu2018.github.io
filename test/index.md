@@ -24,5 +24,14 @@
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
 
-按照规则选择网站。  
-规则.txt(MD5:f6c5e9c5815d1f7e7d8091f4113e7a1e)
+按照规则选择网站。   
+(更新)规则.txt(MD5:6e0679b66d3f5b6db8fe8374701d8caa)
+
+```powershell
+certutil -hashfile 规则.txt md5
+
+MD5 的 规则.txt 哈希:
+6e0679b66d3f5b6db8fe8374701d8caa
+CertUtil: -hashfile 命令成功完成。
+```
+
