@@ -18,7 +18,7 @@
 |笔趣阁-xbiquge.cc<br/>202004252252|https://www.xbiquge.cc|
 |笔趣阁-com.cn<br/>202004252252|https://www.biquge.com.cn|
 |100本<br/>202004252252|https://www.100ben.net|
-|黑岩<br/>202004252252|https://www.heiyan.com|
+|黑岩<br/>202006102152|https://www.heiyan.com|
 |斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
 |中文书城<br/>202005151640|http://shenma.cread.com|
 
