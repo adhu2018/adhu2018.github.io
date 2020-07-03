@@ -35,7 +35,7 @@ def _robots(r):
                 list1[-1].append(reg.search(i)[1].upper())  # 爬虫名称，大写 [][0]
                 list1[-1].append([])  # (Disallow or Allow):value [][1] 需要特别注意的是Disallow与Allow行的顺序是有意义的
                 list1[-1].append([])  # Crawl-delay [][2] 时间间隔
-            elif reg1.search(i) or reg2.search(i):
+            elif reg12.search(i):
                 # [][1][0] ['Disallow', '/baidu']
                 # [][1][0][0] 'Disallow'
                 if reg__.search(i):  # $标识
