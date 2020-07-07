@@ -99,7 +99,22 @@ def allow(*_str):
     return b
 
 if __name__ == '__main__':
+    # print(allow("http://www.baidu.com/"))
+    # print(allow("*","http://www.baidu.com/"))
     pass
 ```
 
 urllib有个robotparser也是解析robots的，但是用着不顺手（emmm，好吧，其实是不想记用法。。）
+
+这里只用了allow()，所以就不改了，需要正常使用的，请转至优化后的[tools](https://github.com/adhu2018/tools)。
+
+以下是urllib.robotparser，可用于验证，有错请反馈。
+
+```
+from urllib import robotparser
+rp = robotparser.RobotFileParser()
+rp.set_url("http://www.baidu.com/robots.txt")
+rp.read()
+print(rp.can_fetch("*","http://www.baidu.com/"))
+```
+
