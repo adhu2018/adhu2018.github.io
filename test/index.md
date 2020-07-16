@@ -22,17 +22,9 @@
 |*斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
 |中文书城<br/>202005151640|http://shenma.cread.com|
 
-*:
+*: 个别书源因存在针对性优化，将不再更新。
 
-```
-  已测试版本(环境：MuMu模拟器)：
-  √: legado_3.20.052009, legado_3.20.060717, legado_3.20.061417.  
-  ×: legado_3.20.053120, legado_3.20.061521, legado_3.20.061820.
-  环境(真机测试)：
-  ×: legado_3.20.071316, legado_3.20.071519debug.
-  其他版本请自行测试。
-  推测是软件引用的某个库或者js解析的相关函数在关键位置有改动，暂时无法解决。
-```
+
 
 [旧版最后一次提交的数据](https://github.com/adhu2018/adhu2018.github.io/blob/37b664efa0cd3164da112dc705ccaf75782dc8a9/test/index.md)
 
