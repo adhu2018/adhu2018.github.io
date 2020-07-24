@@ -422,5 +422,47 @@
     },
     "searchUrl": "/searchbook.aspx?key={{key}}&type=1",
     "weight": 0
+  },
+  {
+    "bookSourceGroup": "qa455355",
+    "bookSourceName": "梧桐中文网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.wtzw.com",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 0,
+    "ruleBookInfo": {
+      "author": "class.sName@text",
+      "coverUrl": "class.w_pic@tag.img@src",
+      "intro": "class.pWorkInformation@text",
+      "kind": "class.w_txt@tag.li.1@textNodes",
+      "lastChapter": "class.li_upDate@tag.a@text##^\\s+|\\s+$",
+      "name": "tag.h1@tag.a@text",
+      "wordCount": "class.li_2.0@textNodes"
+    },
+    "ruleContent": {
+      "content": "id.read_page@tag.p@text",
+      "imageStyle": 0
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.a.2@text",
+      "bookList": "class.searchList@tag.li",
+      "bookUrl": "tag.a.0@href",
+      "coverUrl": "tag.img@src",
+      "intro": "class.sIntro sIntro_2@text",
+      "kind": "class.pInfor clearfix@tag.span!0:2:-1@textNodes",
+      "lastChapter": "class.s66@textNodes",
+      "name": "tag.a.1@text",
+      "wordCount": "class.pInfor clearfix@tag.span.2@textNodes"
+    },
+    "ruleToc": {
+      "chapterList": "class.w_tb@tag.a",
+      "chapterName": "text##^\\s+|\\s+$",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "/search-{{key}}.html?p={{page}}",
+    "weight": 0
   }
 ]
