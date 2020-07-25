@@ -18,12 +18,12 @@
       "intro": "<br>$9",
       "kind": "$5",
       "lastChapter": "$7",
-      "name": "$3##免费阅读全文$",
+      "name": "$3##(免费阅读全文|全文(免费)?阅读(章节)?)$",
       "tocUrl": "$8",
       "wordCount": "$6字"
     },
     "ruleContent": {
-      "content": "id.content@tag.p@html",
+      "content": "id.content@tag.p!0@html##打开手机APP“地星头条”首页。",
       "nextContentUrl": ""
     },
     "ruleExplore": {},
@@ -35,7 +35,7 @@
       "intro": "$8",
       "kind": "$4,$6",
       "lastChapter": "$10",
-      "name": "$3##免费阅读全文$",
+      "name": "$3##(免费阅读全文|全文(免费)?阅读(章节)?)$",
       "wordCount": "$7"
     },
     "ruleToc": {
