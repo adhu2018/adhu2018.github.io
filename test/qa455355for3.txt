@@ -464,5 +464,48 @@
     },
     "searchUrl": "/search-{{key}}.html?p={{page}}",
     "weight": 0
+  },
+  {
+    "bookSourceGroup": "qa455355",
+    "bookSourceName": "云中书库",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.yunxs.com",
+    "bookUrlPattern": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": false,
+    "lastUpdateTime": 0,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "author": "class.info.0@tag.a.0@text",
+      "coverUrl": "class.lazy.0@src",
+      "intro": "class.words@tag.p.2@text##简介：|&nbsp;",
+      "kind": "class.lb@tag.a@text",
+      "lastChapter": "class.words@tag.a@text",
+      "name": "tag.h1@text",
+      "wordCount": "id.cms_ready_1@text##$##字"
+    },
+    "ruleContent": {
+      "content": "class.box_box@textNodes",
+      "imageStyle": 0
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.state@text##作者：|(&nbsp;)*类型：[\\s\\S]*",
+      "bookList": "class.ul_b_list@tag.li",
+      "bookUrl": "tag.a.0@href",
+      "coverUrl": "tag.img@src",
+      "intro": "class.words@tag.p.2@text",
+      "kind": "tag.span.0@text&&class.state@text##[\\s\\S]*?状态：|(&nbsp;)*\\s*总点击：[\\s\\S]*",
+      "lastChapter": "class.arcurl@textNodes##最后更新：|&nbsp;",
+      "name": "tag.a.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.list_box@tag.a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "/plus/search.php?kwtype=0&searchtype=搜索&q={{key}}",
+    "weight": 0
   }
 ]

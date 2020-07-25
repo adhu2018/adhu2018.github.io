@@ -22,6 +22,7 @@
 |*斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
 |中文书城<br/>202005151640|http://shenma.cread.com|
 |梧桐中文网<br/>202007240847|https://www.wtzw.com|
+|云中书库<br/>202007251746|http://www.yunxs.com|
 
 *: 个别书源因存在针对性优化，将不再更新。
 
