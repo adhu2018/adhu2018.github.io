@@ -2,7 +2,11 @@
 
 ##### 建议使用手机浏览此页面，推荐使用[快捷导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/adhu2018/001/master/qa455355for3.txt)。  
 
-##### [快捷导入_国内](yuedu://booksource/importonline?src=https://adhu2018.github.io/test/qa455355for3.txt)
+##### [快捷导入_国内](yuedu://booksource/importonline?src=https://adhu2018.github.io/test/qa455355for3.txt) 
+
+任何非阅读官方发布的，魔改或其他任何经过修改的阅读版本，或其他第三方软件，不对其进行兼容，出现的所有问题**请自行解决，概不负责！** 
+
+在非正常环境下使用书源，无法保证对应软件是否安全，无法保证书源是否能正常使用，由此造成的问题**请自行解决，概不负责！** 
 
 如果你发现我的书源有问题，请先检查是否有相应书源的更新！
 
