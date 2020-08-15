@@ -23,8 +23,7 @@
       "wordCount": "$6字"
     },
     "ruleContent": {
-      "content": "id.content@tag.p!0@html##打开手机APP“地星头条”首页。",
-      "nextContentUrl": ""
+      "content": "id.content@tag.p!0@html##打开手机APP“地星头条”首页。"
     },
     "ruleExplore": {},
     "ruleSearch": {
@@ -41,8 +40,7 @@
     "ruleToc": {
       "chapterList": ":</dl>\\s*?<dl>[\\s\\S]*?</div>&&\"([^\"]*?)\">([^<]*?)</a",
       "chapterName": "$2",
-      "chapterUrl": "$1",
-      "nextTocUrl": ""
+      "chapterUrl": "$1"
     },
     "searchUrl": "/search.html,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
     "weight": 0
@@ -66,7 +64,7 @@
       "kind": "class.booktag@tag.a.1@text",
       "lastChapter": "class.col-md-10@tag.p.1@tag.a.0@text",
       "name": "tag.h1@text",
-      "wordCount": "class.booktag@tag.span@text##字数：(\\d+)##$1字"
+      "wordCount": "class.booktag@tag.span.0@text##字数：(\\d+)##$1字"
     },
     "ruleContent": {
       "content": "id.wudidexiaoxiao@html##<p>喜欢([\\s\\S]*?)请大家收藏：\\(www\\.[^\\)]*\\)\\1若晨文学更新速度最快。</p>",
@@ -108,12 +106,10 @@
       "intro": "id.intro@textNodes##^\\s*|\\s+##<br>",
       "kind": "",
       "lastChapter": "id.info@tag.a.-1@text##^\\s*?\\d*?\\s*?(第[\\s\\S]*)##$1",
-      "name": "h1@text",
-      "tocUrl": ""
+      "name": "h1@text"
     },
     "ruleContent": {
-      "content": "id.content@textNodes##笔趣阁\\s*www.xbiquge.cc，最快更新.+最新章节！",
-      "nextContentUrl": ""
+      "content": "id.content@textNodes##笔趣阁\\s*www.xbiquge.cc，最快更新.+最新章节！"
     },
     "ruleExplore": {},
     "ruleSearch": {
@@ -128,8 +124,7 @@
     "ruleToc": {
       "chapterList": "+id.list@a",
       "chapterName": "text",
-      "chapterUrl": "href",
-      "nextTocUrl": ""
+      "chapterUrl": "href"
     },
     "searchUrl": "/modules/article/search.php?searchkey={{key}}&page={{page}},{\n  \"charset\": \"gbk\"\n}",
     "weight": 0
@@ -155,14 +150,10 @@
       "kind": "$3,$4",
       "lastChapter": "$5",
       "name": "$1",
-      "tocUrl": "",
       "wordCount": ""
     },
     "ruleContent": {
-      "content": "id.content@textNodes<js>result.replace(/\\[?嘀嗒小说\\s*www.didaxs.info\\]?/g,\"\");</js>",
-      "nextContentUrl": "",
-      "sourceRegex": "",
-      "webJs": ""
+      "content": "id.content@textNodes<js>result.replace(/\\[?嘀嗒小说\\s*www.didaxs.info\\]?/g,\"\");</js>"
     },
     "ruleExplore": {
       "author": "",
@@ -189,10 +180,7 @@
     "ruleToc": {
       "chapterList": ":<dd><a href=\"(/book/\\d+/\\d+\\.html)\"[^>]*>([\\s\\S]*?)</a></dd>",
       "chapterName": "$2",
-      "chapterUrl": "$1",
-      "isVip": "",
-      "nextTocUrl": "",
-      "updateTime": ""
+      "chapterUrl": "$1"
     },
     "searchUrl": "https://www.biquge.com.cn/search.php?q={{key}}",
     "weight": 0
@@ -218,14 +206,10 @@
       "kind": "",
       "lastChapter": "",
       "name": "$2",
-      "tocUrl": "",
       "wordCount": ""
     },
     "ruleContent": {
-      "content": "id.content@p@text||id.content@textNodes",
-      "nextContentUrl": "",
-      "sourceRegex": "",
-      "webJs": ""
+      "content": "id.content@p@text||id.content@textNodes"
     },
     "ruleExplore": {
       "author": "$4",
@@ -252,10 +236,7 @@
     "ruleToc": {
       "chapterList": ":<dd>\\s*<a[^\"]*\"([^\"]*)\"[^>]*>([\\s\\S]*?)</a>\\s*</dd>",
       "chapterName": "$2",
-      "chapterUrl": "https://www.100ben.net$1",
-      "isVip": "",
-      "nextTocUrl": "",
-      "updateTime": ""
+      "chapterUrl": "https://www.100ben.net$1"
     },
     "searchUrl": "-",
     "weight": 0
@@ -284,8 +265,7 @@
       "wordCount": "//*[@class=\"words\"]/text()"
     },
     "ruleContent": {
-      "content": "class.page-content@html",
-      "nextContentUrl": ""
+      "content": "class.page-content@html"
     },
     "ruleExplore": {
       "author": "//a[@class=\"author\"]/text()",
@@ -313,73 +293,9 @@
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href",
       "isVip": "class.isvip@class",
-      "nextTocUrl": "",
       "updateTime": "createdate"
     },
     "searchUrl": "-",
-    "weight": 0
-  },
-  {
-    "bookSourceGroup": "qa455355; 发现",
-    "bookSourceName": "斋书苑",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.zhaishuyuan.com",
-    "bookUrlPattern": "https?://www.zhaishuyuan.com/book/\\d+",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledExplore": true,
-    "exploreUrl": "男生书库::/shuku/0_1_0_0_0_{{page}}_0_0\n男频连载::/shuku/0_2_0_0_0_{{page}}_0_0\n男频完结::/shuku/0_3_0_0_0_{{page}}_0_0\n添加时间::/shuku/0_1_0_0_8_{{page}}_0_0\n总点击榜::/shuku/0_1_0_0_2_{{page}}_0_0\n月点击榜::/shuku/0_1_0_0_5_{{page}}_0_0\n周点击榜::/shuku/0_1_0_0_4_{{page}}_0_0\n总推荐榜::/shuku/0_1_0_0_1_{{page}}_0_0\n月推荐榜::/shuku/0_1_0_0_7_{{page}}_0_0\n周推荐榜::/shuku/0_1_0_0_6_{{page}}_0_0\n总收藏榜::/shuku/0_1_0_0_3_{{page}}_0_0\n总字数榜::/shuku/0_1_0_0_9_{{page}}_0_0\n玄幻奇幻::/shuku/1_1_0_0_0_{{page}}_0_0\n武侠仙侠::/shuku/2_1_0_0_0_{{page}}_0_0\n都市青春::/shuku/3_1_0_0_0_{{page}}_0_0\n历史军事::/shuku/4_1_0_0_0_{{page}}_0_0\n科幻灵异::/shuku/5_1_0_0_0_{{page}}_0_0\n游戏竞技::/shuku/6_1_0_0_0_{{page}}_0_0\n女生书库::/shuku/9_1_0_0_0_{{page}}_0_0\n女频连载::/shuku/9_2_0_0_0_{{page}}_0_0\n女频完结::/shuku/9_3_0_0_0_{{page}}_0_0\n添加时间::/shuku/9_1_0_0_8_{{page}}_0_0\n总点击榜::/shuku/9_1_0_0_2_{{page}}_0_0\n月点击榜::/shuku/9_1_0_0_5_{{page}}_0_0\n周点击榜::/shuku/9_1_0_0_4_{{page}}_0_0\n总推荐榜::/shuku/9_1_0_0_1_{{page}}_0_0\n月推荐榜::/shuku/9_1_0_0_7_{{page}}_0_0\n周推荐榜::/shuku/9_1_0_0_6_{{page}}_0_0\n总收藏榜::/shuku/9_1_0_0_3_{{page}}_0_0\n总字数榜::/shuku/9_1_0_0_9_{{page}}_0_0",
-    "header": "",
-    "lastUpdateTime": 0,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "author": "id.author@tag.a@text",
-      "coverUrl": "id.bookimg@tag.img@src",
-      "init": "",
-      "intro": "id.bookintro@html",
-      "kind": "class.count.0@tag.span.0@text&&class.count.0@tag.span.1@text",
-      "lastChapter": "id.newlist@tag.a.0@title##^\\s+",
-      "name": "tag.h1@text",
-      "tocUrl": "class.tgcj.0@href",
-      "wordCount": "class.count.0@tag.span.3@text##$##字"
-    },
-    "ruleContent": {
-      "content": "all",
-      "nextContentUrl": "",
-      "sourceRegex": "",
-      "webJs": "getDecode();$('#content').html();"
-    },
-    "ruleExplore": {
-      "author": "tag.a.2@text",
-      "bookList": "class.shulist@tag.ul",
-      "bookUrl": "tag.a.0@href",
-      "coverUrl": "tag.a.0@href##/book/(\\d+)##https://img.zhaishuyuan.com/bookpic/s$1.jpg",
-      "intro": "tag.li.-1@text",
-      "kind": "tag.li.1@text##^\\[|\\]$",
-      "lastChapter": "tag.a.1@text",
-      "name": "tag.a.0@text",
-      "wordCount": "tag.li.-2@text"
-    },
-    "ruleSearch": {
-      "author": "class.book_other.0@tag.span.0@text",
-      "bookList": "id.sitembox@tag.dl",
-      "bookUrl": "tag.a.0@href",
-      "coverUrl": "class.lazyload@_src",
-      "intro": "class.book_des@html",
-      "kind": "class.book_other.0@tag.span!0:3@text",
-      "lastChapter": "class.book_other.1@tag.a@text",
-      "name": "tag.h3@tag.a@text",
-      "wordCount": "class.book_other.0@tag.span.3@text"
-    },
-    "ruleToc": {
-      "chapterList": "<js>\nvar chapter1=result.replace(/id=[\"']readerlists[\"']/g,\"id=\\\"readerlist\\\"\");\nvar x=org.jsoup.Jsoup.parse(result).select(\"#more-chapter\");\nif (String(x)){\n var bid=baseUrl.match(/.*read\\/(\\d+)/)[1];\n var page=\"1\";\n var headers={\"Content-Type\": \"application/x-www-form-urlencoded; charset=UTF-8\",\n\"Cookie\": \"history=\"+bid};\n var option;\n var url2;\n var data2;\n var list2=[];\n var list3=[];\n\n do{\n  option = {\n   \"method\": \"POST\",\n   \"body\":\"action=list&bid=\"+bid+\"&page=\"+page,\n   \"headers\":JSON.stringify(headers)\n  };\n  url2=\"https://www.zhaishuyuan.com/api/,\"+JSON.stringify(option);\n  data2=java.ajax(url2);\n\n  page=String(data2).replace(/[\\s\\S]*\\],\"page\":([^,]+),\"count\":\\d+}/g,\"$1\");\n\n  list2=data2.match(/({\"cN\":\"([\\s\\S]*?)\",\"uT\":\"([\\s\\S]*?)\",\"id\":\\s*(\\d+)\\s*})/g);\n  for(a in list2){\n   t=list2[a].match(/{\"cN\":\"([\\s\\S]*?)\",\"uT\":\"([\\s\\S]*?)\",\"id\":\\s*(\\d+)\\s*}/);\n   na=t[1];\n   ot=t[2];\n   id=t[3];\n   list3.push(\"<li><a href=\\\"/chapter/\"+bid+\"/\"+String(parseInt(id)-parseInt(bid))+\"\\\">\"+na+\"</a>\"+ot+\"</li>\");\n  }\n }while(parseInt(page)>1);\n\n list3=list3.map(a=>a);\n chapter1=chapter1.replace(/<div\\s+id=\"more-chapter\"[\\s\\S]*?<\\/div>/g,String(list3));\n}\nchapter1;\n</js>id.readerlist@tag.li",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href##$##,{\"webView\":true}",
-      "isVip": "",
-      "nextTocUrl": "",
-      "updateTime": "textNodes"
-    },
-    "searchUrl": "/search/,{\n  \"charset\": \"gb2312\",\n  \"body\": \"key={{key}}\",\n  \"method\": \"POST\"\n}",
     "weight": 0
   },
   {
@@ -442,8 +358,7 @@
       "wordCount": "class.li_2.0@textNodes"
     },
     "ruleContent": {
-      "content": "id.read_page@tag.p@text",
-      "imageStyle": 0
+      "content": "id.read_page@tag.p@text"
     },
     "ruleExplore": {},
     "ruleSearch": {
@@ -473,7 +388,8 @@
     "bookUrlPattern": "",
     "customOrder": 0,
     "enabled": true,
-    "enabledExplore": false,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻奇幻::/xuanhuan.html&&仙侠武侠::/xianxia.html&&都市言情::/dushi.html&&穿越历史::/chuanyue.html&&科幻灵异::/kehuan.html&&同人网游::/tongren.html&&小说排行榜::/paihangbang.html&&小说书库::/shuku.html",
     "lastUpdateTime": 0,
     "loginUrl": "",
     "ruleBookInfo": {
@@ -486,10 +402,18 @@
       "wordCount": "id.cms_ready_1@text##$##字"
     },
     "ruleContent": {
-      "content": "class.box_box@textNodes",
-      "imageStyle": 0
+      "content": "class.box_box@textNodes"
     },
-    "ruleExplore": {},
+    "ruleExplore": {
+      "author": "class.author@text||tag.p.0@tag.a@text",
+      "bookList": "class.ul_m_list@tag.li||class.con@tag.li",
+      "bookUrl": "class.t@tag.a@href||tag.a.0@href",
+      "intro": "@js:\"没有简介呢(>﹏<)\"+(/paihangbang.html/.test(baseUrl)?\"\\n字数什么的，都是骗人的鬼(╯3╰)\":\"\")",
+      "kind": "class.abover@text&&class.time@text&&class.c@tag.c@text&&tag.strong@tag.A@text",
+      "lastChapter": "class.n@tag.a.1@text",
+      "name": "class.t@text||tag.a.0@text",
+      "wordCount": "class.words@text||tag.p.1@text##(字数：)?(\\d+)$##$2字"
+    },
     "ruleSearch": {
       "author": "class.state@text##作者：|(&nbsp;)*类型：[\\s\\S]*",
       "bookList": "class.ul_b_list@tag.li",

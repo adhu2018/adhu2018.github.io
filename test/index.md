@@ -10,25 +10,23 @@
 
 如果你发现我的书源有问题，请先检查是否有相应书源的更新！
 
-不定时进行排查。(上次排查: 202007152010)  
+不定时进行排查。(上次排查: 202008151300)  
 已包含网站：  
 
 |名称|网址|
 |:-|:-|
-|九桃小说网<br/>202007251100|https://www.9txs.com|
-|若晨文学<br/>202005111101|https://www.ruochenwx.com|
+|九桃小说网<br/>202008151300|https://www.9txs.com|
+|若晨文学<br/>202008151300|https://www.ruochenwx.com|
 |~~万界小说网~~<br/>已删除-访问慢|~~https://www.wanjiexianwang.com~~|
 |~~新笔趣阁~~<br/>已删除-其他|~~https://www.2bqg.com~~|
-|笔趣阁-xbiquge.cc<br/>202004252252|https://www.xbiquge.cc|
-|笔趣阁-com.cn<br/>202004252252|https://www.biquge.com.cn|
-|100本<br/>202004252252|https://www.100ben.net|
-|黑岩<br/>202006102152|https://www.heiyan.com|
-|*斋书苑<br/>202004252252|https://www.zhaishuyuan.com|
+|笔趣阁-xbiquge.cc<br/>202008151300|https://www.xbiquge.cc|
+|笔趣阁-com.cn<br/>202008151300|https://www.biquge.com.cn|
+|100本<br/>202008151300|https://www.100ben.net|
+|黑岩<br/>202008151300|https://www.heiyan.com|
+|~~斋书苑~~<br/>已删除-其他|https://www.zhaishuyuan.com|
 |中文书城<br/>202005151640|http://shenma.cread.com|
-|梧桐中文网<br/>202007240847|https://www.wtzw.com|
-|云中书库<br/>202007251746|http://www.yunxs.com|
-
-*: 个别书源因存在针对性优化，将不再更新。
+|梧桐中文网<br/>202008151300|https://www.wtzw.com|
+|云中书库<br/>202008151300|http://www.yunxs.com|
 
 
 
