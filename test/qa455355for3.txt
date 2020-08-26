@@ -61,7 +61,7 @@
       "author": "class.booktag@tag.a.0@text",
       "coverUrl": "class.col-md-2 col-xs-4 hidden-xs@tag.img@src",
       "intro": "id.bookIntro@html",
-      "kind": "class.booktag@tag.a.1@text",
+      "kind": "class.booktag@tag.a.1@text&&class.booktag@tag.span.1@text&&class.col-md-10@tag.p.1@tag.span@text##（|）",
       "lastChapter": "class.col-md-10@tag.p.1@tag.a.0@text",
       "name": "tag.h1@text",
       "wordCount": "class.booktag@tag.span.0@text##字数：(\\d+)##$1字"
@@ -102,11 +102,12 @@
     "loginUrl": "",
     "ruleBookInfo": {
       "author": "id.info@tag.a.0@text",
-      "coverUrl": "id.fmimg@img@src",
+      "coverUrl": "id.fmimg@img@src@js:result+\",{\\\"referer\\\":\\\"\"+baseUrl+\"\\\"}\"",
       "intro": "id.intro@textNodes##^\\s*|\\s+##<br>",
-      "kind": "",
+      "kind": "id.info@tag.p.2@text##更新时间：|\\s*\\[共[^\\]]+\\]\\s*",
       "lastChapter": "id.info@tag.a.-1@text##^\\s*?\\d*?\\s*?(第[\\s\\S]*)##$1",
-      "name": "h1@text"
+      "name": "h1@text",
+      "wordCount": "id.info@tag.p.2@text##[\\s\\S]*?\\[共|\\]\\s*"
     },
     "ruleContent": {
       "content": "id.content@textNodes##笔趣阁\\s*www.xbiquge.cc，最快更新.+最新章节！"
@@ -122,8 +123,8 @@
       "name": "tag.a.0@text"
     },
     "ruleToc": {
-      "chapterList": "+id.list@a",
-      "chapterName": "text",
+      "chapterList": "id.list@a",
+      "chapterName": "text##WwW.lwxs520.Com",
       "chapterUrl": "href"
     },
     "searchUrl": "/modules/article/search.php?searchkey={{key}}&page={{page}},{\n  \"charset\": \"gbk\"\n}",
@@ -312,7 +313,7 @@
       "author": "class.ui_bookinfo_detail@tag.p.0@text##作者：",
       "coverUrl": "class.ui_bookinfo_cover@tag.img@src",
       "intro": "class.jianjie_intro@textNodes",
-      "kind": "class.zw_flex.0@text",
+      "kind": "class.zw_flex.0@text&&class.ui_bookinfo_detail@tag.p.1@text##状态：|\\s*\\|.*",
       "lastChapter": "class.zw_flex.0@text##最新：",
       "name": "class.bookname.0@text",
       "tocUrl": "class.ui_bookinfo_catalog zw_box@tag.a.0@href",
@@ -352,13 +353,13 @@
       "author": "class.sName@text",
       "coverUrl": "class.w_pic@tag.img@src",
       "intro": "class.pWorkInformation@text",
-      "kind": "class.w_txt@tag.li.1@textNodes",
+      "kind": "class.w_txt@tag.li.1@textNodes&&class.li_upDate@textNodes##^(&nbsp;|\\s)*|(&nbsp;|\\s)*$",
       "lastChapter": "class.li_upDate@tag.a@text##^\\s+|\\s+$",
       "name": "tag.h1@tag.a@text",
       "wordCount": "class.li_2.0@textNodes"
     },
     "ruleContent": {
-      "content": "id.read_page@tag.p@text"
+      "content": "id.read_page@tag.p@textNodes"
     },
     "ruleExplore": {},
     "ruleSearch": {
@@ -396,7 +397,7 @@
       "author": "class.info.0@tag.a.0@text",
       "coverUrl": "class.lazy.0@src",
       "intro": "class.words@tag.p.2@text##简介：|&nbsp;",
-      "kind": "class.lb@tag.a@text",
+      "kind": "class.lb@tag.a@text&&id.cms_favorites@text",
       "lastChapter": "class.words@tag.a@text",
       "name": "tag.h1@text",
       "wordCount": "id.cms_ready_1@text##$##字"
