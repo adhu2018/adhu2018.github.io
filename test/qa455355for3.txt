@@ -432,5 +432,43 @@
     },
     "searchUrl": "/plus/search.php?kwtype=0&searchtype=搜索&q={{key}}",
     "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "qa455355",
+    "bookSourceName": "苗疆小说网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://m.miaojiang8.com",
+    "bookUrlPattern": "https?://m.miaojiang8.com/\\d+_\\d+/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": false,
+    "lastUpdateTime": 1608187953250,
+    "ruleBookInfo": {
+      "author": "class.block_txt2@tag.p.2@text##作者[:：]",
+      "coverUrl": "class.black_img2@tag.img@src",
+      "intro": "class.intro_info@html",
+      "kind": "class.block_txt2@tag.a.2@text&&class.block_txt2@tag.p.4@text&&class.block_txt2@tag.p.5@text##(状态|更新)[:：]",
+      "lastChapter": "class.block_txt2@tag.a.-1@text",
+      "name": "tag.h2@text"
+    },
+    "ruleContent": {
+      "content": "id.content@textNodes"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "textNodes##^/",
+      "bookList": "class.cover@tag.p",
+      "bookUrl": "tag.a.1@href",
+      "kind": "tag.a.0@text##\\[|\\]",
+      "name": "tag.a.1@text"
+    },
+    "ruleToc": {
+      "chapterList": "id.chapterList@tag.a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "/s.php,{\n\"charset\": \"gbk\",\n\"method\": \"POST\",\n\"body\": \"type=articlename&s={{key}}&submit=\"\n}",
+    "weight": 0
   }
 ]
