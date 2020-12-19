@@ -470,5 +470,41 @@
     },
     "searchUrl": "/s.php,{\n\"charset\": \"gbk\",\n\"method\": \"POST\",\n\"body\": \"type=articlename&s={{key}}&submit=\"\n}",
     "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "qa455355",
+    "bookSourceName": "爱尚小说网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.23xsw.cc",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": false,
+    "lastUpdateTime": 1608372432036,
+    "ruleBookInfo": {
+      "author": "id.info@tag.p.0@text",
+      "coverUrl": "id.fmimg@tag.img@src",
+      "intro": "id.intro@html",
+      "kind": "id.info@tag.p.1@textNodes&&id.info@tag.p.2@text##(状(&nbsp;|\\s*)*态|最后更新)：|&nbsp;",
+      "lastChapter": "id.info@tag.p.3@tag.a@text",
+      "name": "tag.h1@text"
+    },
+    "ruleContent": {
+      "content": "id.content@textNodes##\\s*\\(https?://www.23xsw.cc/book/\\d+/\\d+/\\d+.html\\)\\s*|1秒记住爱尚小说网：|(www|m).23xsw.cc。?|手机版阅读网址："
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.span.-1@text",
+      "bookList": "class.search-list@tag.li!0",
+      "bookUrl": "tag.a@href",
+      "name": "tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.listmain@tag.a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "https://so.biqusoso.com/s.php?ie=utf-8&siteid=23xsw.cc&q={{key}}",
+    "weight": 0
   }
 ]
