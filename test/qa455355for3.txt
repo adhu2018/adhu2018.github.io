@@ -42,7 +42,7 @@
       "chapterName": "$2",
       "chapterUrl": "$1"
     },
-    "searchUrl": "/search.html,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
+    "searchUrl": "https://so.9txs.com/www/,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
     "weight": 0
   },
   {
