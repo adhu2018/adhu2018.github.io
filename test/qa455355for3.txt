@@ -443,7 +443,7 @@
     "customOrder": 0,
     "enabled": true,
     "enabledExplore": false,
-    "lastUpdateTime": 1608187953250,
+    "lastUpdateTime": 1613316107318,
     "ruleBookInfo": {
       "author": "class.block_txt2@tag.p.2@text##作者[:：]",
       "coverUrl": "class.black_img2@tag.img@src",
@@ -453,7 +453,8 @@
       "name": "tag.h2@text"
     },
     "ruleContent": {
-      "content": "id.content@textNodes"
+      "content": "id.content@textNodes||id.nr1@textNodes##\\-\\->>（本章未完，请点击下一页继续阅读）",
+      "nextContentUrl": "id.pb_next@href"
     },
     "ruleExplore": {},
     "ruleSearch": {
