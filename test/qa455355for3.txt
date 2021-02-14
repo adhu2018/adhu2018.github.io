@@ -47,48 +47,6 @@
   },
   {
     "bookSourceGroup": "qa455355",
-    "bookSourceName": "若晨文学",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.ruochenwx.com",
-    "bookUrlPattern": "https?://www\\.ruochenwx\\.com/\\d+/?",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledExplore": false,
-    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Safari/537.36\"\n}",
-    "lastUpdateTime": 0,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "author": "class.booktag@tag.a.0@text",
-      "coverUrl": "class.col-md-2 col-xs-4 hidden-xs@tag.img@src",
-      "intro": "id.bookIntro@html",
-      "kind": "class.booktag@tag.a.1@text&&class.booktag@tag.span.1@text&&class.col-md-10@tag.p.1@tag.span@text##（|）",
-      "lastChapter": "class.col-md-10@tag.p.1@tag.a.0@text",
-      "name": "tag.h1@text",
-      "wordCount": "class.booktag@tag.span.0@text##字数：(\\d+)##$1字"
-    },
-    "ruleContent": {
-      "content": "id.wudidexiaoxiao@html##<p>喜欢([\\s\\S]*?)请大家收藏：\\(www\\.[^\\)]*\\)\\1若晨文学更新速度最快。</p>",
-      "nextContentUrl": "text.下一页@href"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "tag.td.2@text",
-      "bookList": "tag.tbody@tag.tr!0",
-      "bookUrl": "tag.a.0@href",
-      "kind": "tag.td.4@text&&tag.td.5@text",
-      "lastChapter": "tag.a.1@text",
-      "name": "tag.a.0@text"
-    },
-    "ruleToc": {
-      "chapterList": "class.col-md-3@tag.a",
-      "chapterName": "text",
-      "chapterUrl": "href"
-    },
-    "searchUrl": "/search/,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
-    "weight": 0
-  },
-  {
-    "bookSourceGroup": "qa455355",
     "bookSourceName": "笔趣阁-xbiquge.cc",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xbiquge.cc",
