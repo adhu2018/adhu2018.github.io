@@ -1,8 +1,15 @@
 ## adhu
 
-##### 建议使用手机浏览此页面，推荐使用[快捷导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/adhu2018/001/master/qa455355for3.txt)。  
+##### 建议使用手机浏览此页面。  
 
-##### [快捷导入_国内](yuedu://booksource/importonline?src=https://adhu2018.github.io/test/qa455355for3.txt) 
+##### [(一次性、不推荐)快捷导入](yuedu://booksource/importonline?src=https://adhu2018.github.io/test/qa455355for3.txt) 
+
+推荐使用新版的 `规则订阅` 功能。
+
+> 类型： `书源`
+> 名称：随便写
+> Url： `https://adhu2018.github.io/test/qa455355for3.txt`
+
 
 任何非阅读官方发布的，包含但不限于魔改或其他任何经过修改的阅读版本，或其他第三方软件或程序等，不对其进行兼容，出现的所有问题**请自行解决，概不负责！** 
 
