@@ -145,7 +145,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "",
     "bookSourceGroup": "qa455355",
     "bookSourceName": "100本网",
     "bookSourceType": 0,
@@ -420,7 +419,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "",
     "bookSourceGroup": "qa455355",
     "bookSourceName": "苗疆小说网",
     "bookSourceType": 0,
@@ -459,7 +457,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "",
     "bookSourceGroup": "qa455355",
     "bookSourceName": "爱尚小说网",
     "bookSourceType": 0,
