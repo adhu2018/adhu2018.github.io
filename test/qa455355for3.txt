@@ -3,8 +3,8 @@
     "bookSourceGroup": "qa455355",
     "bookSourceName": "九桃小说网",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.9txs.com",
-    "bookUrlPattern": "https?://www\\.9txs\\.com/book/\\d+\\.html",
+    "bookSourceUrl": "https://www.9txs.org",
+    "bookUrlPattern": "https?://www\\.9txs\\.org/book/\\d+\\.html",
     "customOrder": 0,
     "enabled": true,
     "enabledExplore": true,
@@ -42,7 +42,7 @@
       "chapterName": "$2",
       "chapterUrl": "$1"
     },
-    "searchUrl": "https://so.9txs.com/www/,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
+    "searchUrl": "https://so.9txs.org/www/,{\n  \"body\": \"searchkey={{key}}\",\n  \"method\": \"POST\"\n}",
     "weight": 0
   },
   {
