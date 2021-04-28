@@ -28,7 +28,7 @@
 |~~新笔趣阁~~<br/>已删除-其他|~~https://www.2bqg.com~~|
 |笔趣阁-xbiquge.cc<br/>202008261000|https://www.xbiquge.cc|
 |笔趣阁-com.cn<br/>202008151300|https://www.biquge.com.cn|
-|100本<br/>202008151300|https://www.100ben.net|
+|100本<br/>202104281430|http://www.100ben.net|
 |黑岩<br/>202008151300|https://www.heiyan.com|
 |~~斋书苑~~<br/>已删除-其他|https://www.zhaishuyuan.com|
 |中文书城<br/>202008261000|http://shenma.cread.com|
