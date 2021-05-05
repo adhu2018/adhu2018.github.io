@@ -208,25 +208,6 @@
     "searchUrl": "/plus/search.php?keyword={{key}}&show=title&tempid=1&tbname=news&mid=1&dopost=search",
     "weight": 0
   },
-    "ruleSearch": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": "",
-      "wordCount": ""
-    },
-    "ruleToc": {
-      "chapterList": ":<dd>\\s*<a[^\"]*\"([^\"]*)\"[^>]*>([\\s\\S]*?)</a>\\s*</dd>",
-      "chapterName": "$2",
-      "chapterUrl": "https://www.100ben.net$1"
-    },
-    "searchUrl": "-",
-    "weight": 0
-  },
   {
     "bookSourceGroup": "正版; 仅发现; qa455355",
     "bookSourceName": "黑岩小说",
